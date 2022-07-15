@@ -43,6 +43,6 @@
     "rollup-plugin-terser": "^6.1.0",
     "sapper": "^0.28.10",
     "standard": "^15.0.0",
-    "svelte": "^3.29.4"
+    "svelte": "^3.49.0"
   }
 }
